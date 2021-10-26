@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#CC000000"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/pause"
+            style="@android:style/MediaButton.Play" />
+
+        <TextView
+            android:id="@+id/time_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="4dip"
+            android:paddingTop="4dip"
+            android:paddingRight="4dip"
+            android:textColor="@color/dim_foreground_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/mediaControllerProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dip"
+            android:layout_height="32dip"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:progress="50"
+            android:progressTint="#367594"
+            tools:ignore="RtlCompat" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="4dip"
+            android:paddingTop="4dip"
+            android:paddingRight="4dip"
+            android:textColor="@color/dim_foreground_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

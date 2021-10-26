@@ -1,0 +1,38 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Erlab</string>
+
+    <string name="url1">https://media.publit.io/file/ToriiGates.m3u8</string>
+    <string name="url2">https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8</string>
+    <string name="url3">https://content.jwplatform.com/manifests/yp34SRmf.m3u8</string>
+
+    <string name="url4">https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd</string>
+    <string name="url5">https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd</string>
+    <string name="url6">https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_hd.mpd</string>
+
+    <string name="thumbnail">http://www.pngall.com/wp-content/uploads/2016/05/Turkey-Flag-Free-Download-PNG.png</string>
+
+
+    <string name="something_went_wrong">Something went wrong, please try again</string>
+    <string name="application_name">ExoPlayer Demo</string>
+    <string name="enable_background_audio">Play in background</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="text">Text</string>
+    <string name="logging">Logging</string>
+    <string name="logging_normal">Normal</string>
+    <string name="logging_verbose">Verbose</string>
+    <string name="retry">Retry</string>
+    <string name="off">[off]</string>
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+    <string name="drm_error_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="drm_error_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="drm_error_unknown">An unknown DRM error occurred</string>
+
+</resources>

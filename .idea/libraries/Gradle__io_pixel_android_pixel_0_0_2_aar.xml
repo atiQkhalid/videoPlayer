@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pixel.android:pixel:0.0.2@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/18a7853a3655adc150471fe05fa0c01e/jetified-pixel-0.0.2/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/18a7853a3655adc150471fe05fa0c01e/jetified-pixel-0.0.2/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/18a7853a3655adc150471fe05fa0c01e/jetified-pixel-0.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/io.pixel.android/pixel/0.0.2/5359efd28e56f0b1b368d1447c77bff7abcfd584/pixel-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/io.pixel.android/pixel/0.0.2/7d7c1fecda4824ee6bf4694fcf3b7feb82e85f7e/pixel-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
