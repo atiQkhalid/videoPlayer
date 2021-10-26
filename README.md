@@ -1,4 +1,3 @@
-# Erlab
 Exo player example using MVP clean architecture.
 
 ##Android Architecture
